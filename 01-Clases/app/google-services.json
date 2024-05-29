@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446293598525",
+    "project_id": "jjsy-2024a-cc-gr1",
+    "storage_bucket": "jjsy-2024a-cc-gr1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446293598525:android:98395e5b384b9a2d1ee554",
+        "android_client_info": {
+          "package_name": "com.example.a2024saccr1jjsy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaQLprGdGwlrpGMoFuF7efMpI7BsNY5js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

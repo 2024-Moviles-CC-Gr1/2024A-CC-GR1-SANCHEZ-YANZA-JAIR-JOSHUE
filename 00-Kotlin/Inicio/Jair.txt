@@ -1,0 +1,5 @@
+Nombre: Jair
+Dirección: Calle Principal 123
+Teléfono: 0987654321
+Email: juan@example.com
+Fecha de registro: 2024-05-27 22:51:47
