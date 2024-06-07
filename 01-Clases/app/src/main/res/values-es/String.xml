@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="saludo">Hola bebesita español</string>
+    <string name="saludo">Hola Mundo</string>
+    <color name="TextoColor">#1B1B1B</color>
+    <color name="background">#F46D63</color>
+    <color name="LAND_COLOR">#673AB7</color>
+    <string name ="LAND_STRING">"Cristiano Ronaldo es mejor que Messi"</string>
+    <color name="LAND_BACKGROUND">#A2DA61</color>
 </resources>

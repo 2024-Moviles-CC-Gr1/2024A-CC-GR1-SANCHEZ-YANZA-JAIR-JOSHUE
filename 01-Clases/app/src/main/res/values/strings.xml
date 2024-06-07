@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">2024SACCR1JJSY</string>
-    <string name="saludo">Hola bebesita</string>
+    <string name="app_name" translatable="false">2024SACCR1JJSY</string>
+    <string name="saludo">Hello Word</string>
+    <color name="TextoColor">#FF5722</color>
+    <color name="background">#9C27B0</color>
+    <color name="LAND_COLOR">#BDC361</color>
+    <string name="LAND_STRING">"Cristiano Ronaldo is better than Messi"</string>
+    <color name="LAND_BACKGROUND">#BA3535</color>
 </resources>

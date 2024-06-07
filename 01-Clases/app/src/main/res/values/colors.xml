@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="TextoColor">#A099C2</color>
+    <color name="background">#68B4D6</color>
+    <color name="LAND_COLOR">#BDC361</color>
+    <color name="LAND_BACKGROUND">#BA3535</color>
 </resources>
