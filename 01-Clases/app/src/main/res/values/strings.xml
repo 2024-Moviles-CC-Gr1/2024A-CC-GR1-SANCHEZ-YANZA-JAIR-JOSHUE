@@ -6,4 +6,8 @@
     <color name="LAND_COLOR">#BDC361</color>
     <string name="LAND_STRING">"Cristiano Ronaldo is better than Messi"</string>
     <color name="LAND_BACKGROUND">#BA3535</color>
+    <string name="title_activity_blistiew">BListiew</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>

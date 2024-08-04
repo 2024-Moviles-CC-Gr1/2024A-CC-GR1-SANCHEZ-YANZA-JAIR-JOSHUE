@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cl_blist_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="?attr/actionBarSize">
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="0dp"
+        android:background="?android:attr/windowBackground"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:menu="@menu/bottom_nav_menu" />
+
+    <Button
+        android:id="@+id/botton_ir_CVida"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="68dp"
+        android:text="C.Vida"
+        app:layout_constraintBottom_toTopOf="@+id/botton_ir_list_view"
+        app:layout_constraintEnd_toStartOf="@+id/botton_ir_list_view"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toEndOf="@+id/botton_ir_list_view"
+        app:layout_constraintTop_toBottomOf="@+id/botton_ir_list_view"
+        app:layout_constraintVertical_bias="0.835" />
+
+    <Button
+        android:id="@+id/botton_ir_list_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="L.View"
+        tools:layout_editor_absoluteX="320dp"
+        tools:layout_editor_absoluteY="538dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hola Mundo"
+        android:textColor="#EF2424"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="503dp" />
+
+    <ListView
+        android:layout_width="261dp"
+        android:layout_height="284dp"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="129dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Añadir"
+        app:layout_constraintBottom_toTopOf="@+id/_dynamic"
+        app:layout_constraintEnd_toEndOf="@+id/_dynamic"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="@+id/_dynamic"
+        app:layout_constraintTop_toBottomOf="@+id/_dynamic"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
