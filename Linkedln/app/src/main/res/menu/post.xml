@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/like_menu_button"
+        android:icon="@drawable/like1"
+        android:title="Recomendar" />
+    <item android:title="Comentar"
+        android:icon="@drawable/baseline_message_24"/>
+    <item android:title="Compartir"
+        android:icon="@drawable/repost"/>
+    <item android:title="Enviar"
+        android:icon="@drawable/enviar"/>
+</menu>
