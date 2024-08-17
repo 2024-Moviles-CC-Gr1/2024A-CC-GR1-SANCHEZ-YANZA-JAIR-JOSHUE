@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205221032018",
+    "project_id": "pedidoscliente-18214",
+    "storage_bucket": "pedidoscliente-18214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205221032018:android:2ebce7e4d1d1f430ccaf8b",
+        "android_client_info": {
+          "package_name": "com.example.pedidoscliente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbWDX3sNRIPQAWyfqoSQRnqMT7-sums5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
